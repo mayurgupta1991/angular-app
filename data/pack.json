@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Nuclear Science",
+		"description": "Nuclear",
+		"category": "Physics",
+		"id": 1,
+		"price": 100
+	}, {
+		"name": "Illusion Vision",
+		"description": "Illusion",
+		"category": "Physics",
+		"id": 2,
+		"price": 200
+	}, {
+		"name": "Dynamics Motion",
+		"description": "Dynamics",
+		"category": "Physics",
+		"id": 3,
+		"price": 300
+	}, {
+		"name": "Geometry Figure",
+		"description": "Geometry",
+		"category": "Mathematics",
+		"id": 4,
+		"price": 100
+	}, {
+		"name": "Algebrics Fundamentals",
+		"description": "Algebrics",
+		"category": "Mathematics",
+		"id": 5,
+		"price": 200
+	}, {
+		"name": "Integrate Parts",
+		"description": "Integrate",
+		"category": "Mathematics",
+		"id": 6,
+		"price": 300
+	}, {
+		"name": "Organic Chemistry",
+		"description": "Salts",
+		"category": "Chemistry",
+		"id": 7,
+		"price": 100
+	}, {
+		"name": "Molecular Division",
+		"description": "Molecular",
+		"category": "Chemistry",
+		"id": 8,
+		"price": 200
+	}, {
+		"name": "Structural Genes",
+		"description": "Structural",
+		"category": "Chemistry",
+		"id": 9,
+		"price": 300
+	}
+]
